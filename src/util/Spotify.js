@@ -3,7 +3,7 @@
 // to Spotify using the Spotify API with tokenisation
 
 const clientId = '078ad95fa4ff4e46945a75ee4d642a1d'; // Insert client ID here.
-const redirectUri = 'http://localhost:3000/'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
+const redirectUri = 'https://instrumental-e7268.web.app/'; // Have to add this to your accepted Spotify redirect URIs on the Spotify API.
 
 let accessToken;
 
